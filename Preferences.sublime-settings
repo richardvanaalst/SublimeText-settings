@@ -1,0 +1,56 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"bin",
+		"db",
+		"lib",
+		"log",
+		"node_modules",
+		"public",
+		"tmp"
+	],
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"Haml",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets_angle": true,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		32,
+		80
+	],
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}

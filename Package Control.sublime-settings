@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"CSS3",
+		"Cucumber",
+		"EditorConfig",
+		"GitGutter",
+		"Haml",
+		"HTML5",
+		"JSX",
+		"LESS",
+		"Monokai Dark",
+		"Package Control",
+		"SCSS",
+		"sublime-haml",
+		"SublimeLinter",
+		"SublimeLinter-stylelint",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/iRet/sublime-haml"
+	]
+}
