@@ -39,18 +39,18 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "true",
 	"linters": {
-	  "eslint": {
-      "env": { "PATH": "/usr/local/opt/" }
-	  },
-	  "sass": {
-      "env": { "PATH": "/usr/local/opt/" }
-	  }
+		"eslint": {
+			"env": { "PATH": "/usr/local/opt/" }
+		},
+		"sass": {
+			"env": { "PATH": "/usr/local/opt/" }
+		}
 	},
 	"paths": {
-	  "linux": [],
-	  "osx": [
-      "/usr/local/opt/",
-	  ],
-	  "windows": []
+		"linux": [],
+		"osx": [
+			"/usr/local/opt/",
+		],
+		"windows": []
 	}
 }
