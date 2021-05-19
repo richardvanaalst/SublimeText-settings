@@ -1,28 +1,13 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"bin",
-		"db",
-		"lib",
-		"log",
-		"node_modules",
-		"public",
-		"tmp"
-	],
 	"font_face": "Fira Code",
 	"font_options":
 	[
 		"no_italic"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -43,7 +28,7 @@
 	"rulers":
 	[
 		32,
-		80
+		100
 	],
 	"scroll_past_end": true,
 	"show_full_path": true,
@@ -52,5 +37,20 @@
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"linters": {
+	  "eslint": {
+      "env": { "PATH": "/usr/local/opt/" }
+	  },
+	  "sass": {
+      "env": { "PATH": "/usr/local/opt/" }
+	  }
+	},
+	"paths": {
+	  "linux": [],
+	  "osx": [
+      "/usr/local/opt/",
+	  ],
+	  "windows": []
+	}
 }

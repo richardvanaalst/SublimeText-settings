@@ -5,7 +5,7 @@
 	],
 	"installed_packages":
 	[
-		"Better CoffeeScript",
+		"Auto Close HTML Tags",
 		"Color Highlighter",
 		"CSS3",
 		"Cucumber",
@@ -17,11 +17,14 @@
 		"LESS",
 		"Monokai Dark",
 		"Package Control",
-		"SCSS",
+		"Sass",
 		"sublime-haml",
 		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-stylelint",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TypeScript Syntax"
 	],
 	"repositories":
 	[
